@@ -1,3 +1,4 @@
-FROM pizzafactory0contorno/piatto:alpine
+ARG BASE_IMAGE
+FROM ${BASE_IMAGE}
 
 RUN sudo apk add --update --no-cache hugo
