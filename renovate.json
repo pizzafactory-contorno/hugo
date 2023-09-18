@@ -9,6 +9,8 @@
       "enabled": false
     }
   ],
+  "automerge": true,
+  "platformAutomerge": true,
   "dependencyDashboard": false,
   "extends": ["config:recommended"],
   "enabledManagers": ["github-actions","dockerfile"]
