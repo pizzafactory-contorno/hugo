@@ -3,6 +3,7 @@
   "baseBranches": ["main"],
   "packageRules": [
     {
+      "matchManagers": ["dockerfile"],
       "matchUpdateTypes": ["major", "minor", "patch"],
       "matchBaseBranches": ["main"],
       "enabled": false
