@@ -38,7 +38,7 @@ jobs:
             platforms: linux/386,linux/amd64,linux/arm/v6,linux/arm/v7,linux/arm64
             extra_packages: hugo-bash-completion
           - tag: alpine-edge
-            platforms: linux/386,linux/amd64,linux/arm/v6,linux/arm/v7,linux/arm64,linux/riscv64
+            platforms: linux/386,linux/amd64,linux/arm/v6,linux/arm/v7,linux/arm64
             extra_packages: hugo-bash-completion
           - tag: alpine-3.15.0
             platforms: linux/386,linux/amd64,linux/arm/v6,linux/arm/v7,linux/arm64,linux/ppc64le
