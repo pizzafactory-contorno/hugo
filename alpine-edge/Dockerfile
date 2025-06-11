@@ -1,4 +1,4 @@
-FROM pizzafactory0contorno/piatto:alpine-edge@sha256:b8d2248646f41ba6b6f13db24b5bfbaecfebd25c5063d8a523f72abb379c197b
+FROM pizzafactory0contorno/piatto:alpine-edge@sha256:e7df20b2aa8d9302440c06fb5d90f557e3ef5257d15481e548f4c66b7fedf0b8
 
 ARG EXTRA_PACKAGES
 
